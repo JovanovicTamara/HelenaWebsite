@@ -596,15 +596,6 @@ footer{
         flex-direction: column;
         margin-left: 0;
     }
-    /* aaaaaaaaaaaaaaaaaaaaaaa */
-    .button-box{
-        width: 70%;
-    }
-    .A_box{
-        width: 85%;
-        top: 100%;
-        left: 7%;
-    }
 }
 
 @media only screen and (max-width: 642px){
@@ -632,8 +623,6 @@ footer{
     }
     .A_box{
         width: 85%;
-        top: 100%;
-        left: 7%;
     }
 }
 
@@ -670,4 +659,5 @@ footer{
     .box{
         margin-bottom: 5em;
     }
+
 }
